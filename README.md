@@ -1,6 +1,8 @@
 # Spoof Skins
 ### This script allows you to unlock every skin for free!  No golden eggs are needed!
 ### Wether it is a recently added skin that cost 100,000 golden eggs or and old skin that would cost $2, with this script, all of them are free and you can select from all of them when you open up your inventory.
+# Disable Scope
+### This script makes it so that when you scope `shift` the black borders will be removed, making it easier to spot enemies
 # Statefarm Client
 ### This client will help you easily kill your opponents in [shellshock.io](shellshock.io) with a lot of different hacks in one panel!
 # What we include
