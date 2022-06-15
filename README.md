@@ -1,5 +1,5 @@
 # Statefarm Client
-### This client will help you easily kill your opponents in shellshock.io with a lot of different hacks in one panel!
+### This client will help you easily kill your opponents in [shellshock.io](shellshock.io) with a lot of different hacks in one panel!
 # What we include
 ### The Statefarm client includes:
 #### Aimbot/Autolock
