@@ -1,3 +1,5 @@
+# Spoof Skins
+### This script allows you to unlock every skin for free!  No golden eggs are needed!
 # Statefarm Client
 ### This client will help you easily kill your opponents in [shellshock.io](shellshock.io) with a lot of different hacks in one panel!
 # What we include
