@@ -15,6 +15,9 @@
 #### Then:  Press `ctrl+s` to save your code and add it to your Tampermonkey sripts
 #### Finally:  Go into Shell Shockers and watch your code in action!
 ### Note:  The Statefarm client has some extra steps!  Make sure to read the whole thing!
+# Toggle Xray
+### If toggling Xray doesn't work on the Statefarm client, try using this script!
+### If you install this script, by pressing the key `v` you may turn on and off Xray mode!
 # Spoof Skins
 ### This script allows you to unlock every skin for free!  No golden eggs are needed!
 ### Wether it is a recently added skin that cost 100,000 golden eggs or and old skin that would cost $2, with this script, all of them are free and you can select from all of them when you open up your inventory.
