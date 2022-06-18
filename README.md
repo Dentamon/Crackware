@@ -43,7 +43,3 @@
 # Notice
 ### The script will not work if you do not do the setup for both scripts
 ### Make sure that you have both scripts running when you have Shell Shockers up
-# Toggling on and off hacks
-### On the hack menu, you will see something like "Keybind set to (key)"
-### You may change the keys and the script will only work and toggle if you press the new keys
-### It will reset everytime you reload the page
