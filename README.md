@@ -1,3 +1,4 @@
+### Please leave a ⭐ to help support me.  Thanks so much!  
 # Welcome to The Shell Shockers Hack, or Crackware
 ### These hacks provide abilities that will boost you through [shellshock.io](shellshock.io)
 ### Using these, you can get every skin in the game, all for free, disable the borders when you scope, and access a mod panel with various hacks including:  aimbot, Xray, tracers, and more!
